@@ -4,7 +4,6 @@ using System.Reflection;
 using System.Security.Cryptography;
 using Mono.Cecil;
 using MonoMod;
-using MonoMod.InlineRT;
 using MonoMod.RuntimeDetour.HookGen;
 
 namespace Hamunii.MonoMod.RuntimeDetour.HookGen;
